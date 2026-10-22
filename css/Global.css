@@ -1,0 +1,33 @@
+:root {
+    --colorPrimario: #1436cb;
+    --colorSecundario: #14cb63;
+    --colorNegro: #000;
+    --colorBlanco: #fff;
+    --colorGris: #f5f5f5;
+    --fontPrimario: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    overflow-x: hidden;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Oswald", sans-serif;
+    font-weight: 700;
+}
+
+h3 {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+p {
+    font-family: "Inter", sans-serif;
+}
